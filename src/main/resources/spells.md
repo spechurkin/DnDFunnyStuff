@@ -1,0 +1,1 @@
+[Дружба с животными](https://ttg.club/spells/animal_friendship), [Лечение ран](https://ttg.club/spells/cure_wounds), [Туманное облако](https://ttg.club/spells/fog_cloud), [Волна грома](https://ttg.club/spells/thunderwave)
